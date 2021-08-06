@@ -63,8 +63,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/CYBER-DASHAMOOLAN/Poocha-Ser
+$ cd Poocha-Ser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -73,8 +73,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/CYBER-DASHAMOOLAN/Poocha-Ser
+$ cd Poocha-Ser
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -94,10 +94,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Hisham-Muhammed/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
-----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) |  
+----|
+[ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
+Base, Bug Fixes, Modules | 
   </div>
     
 
