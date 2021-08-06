@@ -1,20 +1,21 @@
 
-<<div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/poocha-ser.png" width="250" height="151"/>
+<div align="center">
+  <img border-radius: 15px src="https://www.linkpicture.com/q/poocha-ser.png" width="200" height="131"/>
   <p align="center">
-<a href="#"><img title="WhiteDevil" src="https://img.shields.io/badge/Poocha Ser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Poocha Ser" src="https://img.shields.io/badge/-POOCHA%20SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/CYBER-DASHAMOOLAN"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALINSHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/CYBER-DASHAMOOLAN"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ALINSHAN?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a> to make it public
+Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
     <br>
        | © |
         Reserved |
     <br> 
 </p>
+
 
 
 ----
