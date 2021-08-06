@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]()
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER-DASHAMOOLAN&repo=POOCHA_SER&theme=nightowl)](https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER)
