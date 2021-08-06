@@ -1,6 +1,6 @@
 {
-    "name": "Sophia bgm bot",
-    "description": "Sophia project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "BOT POOCHA SER",
+    "description": "POOCHA SER - Makes it easy and fun to use Whatsapp. user bot for Whatsapp.",
     "logo": "https://i.imgur.com/PwDQti2.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
@@ -137,7 +137,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "I am ALIVE bro 🙂 coded by hisham-Muhammed"
+            "value": "I AM ALIVE 🙂 CODDED BY ALINSHAN"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
