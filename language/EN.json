@@ -72,8 +72,8 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...🧚‍♂️```",
+            "RESTART_DESC": "Restart POOCHA_SER",
+            "RESTART_MSG": "```Restarting...😺```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Bye bye! I am going 😺```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Nan ippol thanne update aanallo machaa..!*",
-            "NEW_UPDATE": "* Sophiak k update cheyyan und manushya 😊*\n\n please ask support group before updating. Otherwise chance to get error group link : https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6 \n\nChanges:\n```",
+            "NEW_UPDATE": "*  POOCHA_SER  update available😊*\n\n type *update now* to update POOCHA_SER \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Update aakunnu aliyaa  ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Update. aaki.. monuse😌 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 SOPHIA Restarting*"
+            "AFTER_UPDATE": "*😼 POOCHA_SER*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
