@@ -28,6 +28,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
   </div>
     
 ## Setup
+<div align="center">
 
 
   ### Simple Method
