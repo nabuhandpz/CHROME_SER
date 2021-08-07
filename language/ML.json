@@ -72,9 +72,9 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
-            "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
+            "RESTART_DESC": "\nRestart POOCHA_SER\n",
+            "RESTART_MSG": "```Restarting...😺```",
+            "SHUTDOWN_DESC": "\nShutdown POOCHA_SER\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME": "```Bye bye! njan povunnu 😺```",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```profile maattunnu...```",
@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "chithrathinte background maayichu kalaayan.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Ente moilali api key thanilla aliyaa😭*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*Ente moilali api key thanilla aliyaa😿*\n```remove.bg login for apikey```",
             "RBGING": "```maayikkunu...```"
         },
         "scrapers": {
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
+            "DOWNLOADING": "```Ippam Sheriyaakithara 😼```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*Nan already update aan muthe 😘😝!*",
-            "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6 * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*POOCHA_SER* Puthiya Update Vannittund..... 😁 * \n\n type *update now* to update POOCHA_SER \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```Update aakikondirikunnu manushyaa🤩😍😘..🐥```",
+            "UPDATING": "```Update aakikondirikunnu wait cheyy mwone🤩😍😘..😼```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Update aaki monuse 😁🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophoa Restarting..*"
+            "AFTER_UPDATE": "*😼 POOCHA_SER* Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
