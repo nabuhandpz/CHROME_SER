@@ -83,7 +83,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![nabuhandpz](https://github.com/nabuhandpz.png?size=100)](https://github.com/nabuhandpz)|
 ----|
-[NIBUHAN]https://github.com/nabuhandpz)|  
+[NIBUHAN](https://github.com/nabuhandpz)|  
 Base, Bug Fixes, Modules | 
   </div>
     
