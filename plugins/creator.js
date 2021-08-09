@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎POOCHA_SER😎═════╗*\n           \n*⚜═POOCHA_SER═⚜*\n\n*owner ALINSHAN - http://Wa.me/+919383491460*\n*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: ALINSHAN*"
+    r_text[1] = "*╔══😎RUBY_MWOL😎══╗*\n           \n*⚜═POOCHA_SER═⚜*\n\n*owner NABUHAN - http://Wa.me/+918289836232*\n*            *\n*╚══🔱🔱🔱🔱🔱══╝*\n\n*▷Creator: NABUHAN*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎POOCHA_SER😎═════╗*\n           \n*⚜═POOCHA_SER═⚜*\n\n*owner ALINSHAN - http://Wa.me/+919383491460*\n*       *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: ALINSHAN*"
+    r_text[1] = "*╔══😎RUBY_MWOL😎══╗*\n           \n*⚜═POOCHA_SER═⚜*\n\n*owner NABUHAN - http://Wa.me/+918289836232*\n*       *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: NABUHAN*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*\n💥═POOCHA_SER Owner ALINSHAN═💥*\n\n*"
+        r_text[1] = "*\n💥═RUBY_MWOL  Owner NABUHAN═💥*\n\n*"
 
     
 
