@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Ruby-mwol.jpeg" width="230" height="101"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Ruby-mwol.jpeg" width="250" height="111"/>
   <p align="center">
 <a href="#"><img title="Poocha Ser" src="https://img.shields.io/badge/-POOCHA%20SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
