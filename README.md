@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
+Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">NIBUHAN</a>
     <br>
        | © |
         Reserved |
