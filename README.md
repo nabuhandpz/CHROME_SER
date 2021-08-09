@@ -5,11 +5,11 @@
 <a href="#"><img title="Poocha Ser" src="https://img.shields.io/badge/-RUBY%20MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/CYBER-DASHAMOOLAN"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIBUHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/nabuhandpz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NIBUHAN-grey%2Fblue?color=blue&style=for-the-badge&logo=whatsapp">
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">NIBUHAN</a>
+Project created by <a href="https://github.com/nabuhandpz">NIBUHAN</a>
     <br>
        | © |
         Reserved |
@@ -20,13 +20,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">NIBUHAN</a>
 
 ----
 
- 
-<div align="center">
-<br>
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER-DASHAMOOLAN&repo=POOCHA_SER&theme=nightowl)](https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER)
-  </div>
-    
+     
 ## Setup
 <div align="center">
 
@@ -35,7 +29,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">NIBUHAN</a>
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabuhandpz/CHROME_SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabuhandpz/RUBY-MWOL.git)
      </div>
 <br>
 <br >
