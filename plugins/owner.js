@@ -26,7 +26,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'BOT POOCHA SER CREATED BY *ALINSHAN*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'BOT RUBY_MWOL CREATED BY *NABUHAN*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
