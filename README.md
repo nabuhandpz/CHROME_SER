@@ -78,7 +78,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![nabuhandpz](https://github.com/nabuhandpz.png?size=100)](https://github.com/nabuhandpz)| [![CYBER-DASHAMOOLAN](https://github.com/CYBER-DASHAMOOLAN.png?size=100)](https://github.com/CYBER-DASHAMOOLAN) | 
 ----|----|
 [NIBUHAN](https://github.com/nabuhandpz)|  [ALINSHAN](https://github.com/CYBER-DASHAMOOLAN)  |  
-Bug Fixes, Modules |                       Bug Fixes, Modules | 
+                                           Bug Fixes, Modules | 
   </div>
     
 
